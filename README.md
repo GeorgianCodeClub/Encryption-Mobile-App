@@ -19,6 +19,11 @@ The User Interface of this Android application allows a user to enter a message 
 ### <a name="using">How to use</a>
 TODO
 
+### <a name="resources">Additional resources</a>
+The Android documentation for best practices relating to security: https://developer.android.com/topic/security/best-practices
+The Android documentation for crytography: https://developer.android.com/guide/topics/security/cryptography
+The official Android documentation: https://developer.android.com/docs
+
 ### <a name="install_run">How to install and run</a>
 TODO
 
